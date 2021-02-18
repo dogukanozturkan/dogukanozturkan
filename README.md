@@ -3,7 +3,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ... Payment Gateway Project
+- 🔭 I’m currently working on ... Payment Gateway
 - 🌱 I’m currently learning ... Go, Python
 - 👯 I’m looking to collaborate on ... JHipster
 - 🤔 I’m looking for help with ... Java, Angular

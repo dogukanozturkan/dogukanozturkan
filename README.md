@@ -11,4 +11,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ... [Linkedin](https://linkedin.com/in/dozturkan)
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... I ❤️ Dota2
--->
+
